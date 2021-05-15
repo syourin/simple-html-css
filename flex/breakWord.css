@@ -39,6 +39,6 @@
   margin: 3px;
   display:flex;
   border: solid;
-  word-break:break-word;
+  word-break:break-all;
 }
 
