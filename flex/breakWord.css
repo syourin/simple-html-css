@@ -26,9 +26,18 @@
 .type {
   display: flex;
   border: solid;
+  justify-content: center;
+  align-items: center;
+}
+
+.words {
+  padding-left: 5px;
+  display: flex;
+  flex-direction: column;
 }
 
 .word {
+  margin: 3px;
   display:flex;
   border: solid;
   word-break:break-word;
