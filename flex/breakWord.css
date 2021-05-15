@@ -40,5 +40,6 @@
   display:flex;
   border: solid;
   word-break:break-all;
+  width: 100%;
 }
 
