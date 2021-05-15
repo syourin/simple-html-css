@@ -1,0 +1,10 @@
+.parent{
+  width:100px;
+  display:flex;
+  flex-direction:column;
+  border: solid;
+  align-item: center;
+}
+.child{
+  word-wrap:break-word;
+}
