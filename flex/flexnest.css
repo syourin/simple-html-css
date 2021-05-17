@@ -1,0 +1,13 @@
+.flex-outer {
+  display: flex;
+  margin: 0 -1rem;
+}
+
+.flex-outer__item {
+  margin: 0 1rem;
+}
+
+.flex-inner {
+  display: flex;
+  border: solid;
+}
