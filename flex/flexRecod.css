@@ -1,1 +1,19 @@
-aaa
+.outer {
+  padding:20px;
+}
+
+.flex-outer {
+  dispaly:flex;
+  border: 1px solid #000;
+  min-height: 37px;
+  font-size:14px;
+  color: #000
+}
+
+.flex-inner_name {
+  display:flex;
+}
+
+.flex-inner_value {
+  display:flex;
+}
