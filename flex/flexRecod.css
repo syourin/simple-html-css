@@ -21,6 +21,7 @@
 
 .flex-inner_value {
   display:flex;
+  flex: 1;
   align-item:center;
   padding:8px;
   white-space: pre-wrap;
