@@ -12,9 +12,16 @@
 
 .flex-inner_name {
   display:flex;
+  flex-basis: 292px;
+  flex-shrink: 0;
+  align-item:center;
   background: #D9DEE0;
+  padding: 8px;
 }
 
 .flex-inner_value {
   display:flex;
+  align-item:center;
+  padding:8px;
+  white-space: pre-wrap;
 }
