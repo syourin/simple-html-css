@@ -3,7 +3,7 @@
 }
 
 .flex-outer {
-  dispaly:flex;
+  display:flex;
   border: 1px solid #000;
   min-height: 37px;
   font-size:14px;
