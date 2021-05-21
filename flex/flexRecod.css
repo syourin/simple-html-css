@@ -12,6 +12,7 @@
 
 .flex-inner_name {
   display:flex;
+  background: #D9DEE0;
 }
 
 .flex-inner_value {
